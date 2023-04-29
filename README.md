@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanket Joshi 🌀</h1>
 <h3 align="center">The Cloud☁️ Engineer  Guy who ♥ automating🧑🏻‍🔧 stuff</h3>
-
+  <img align="right" src="https://static.wixstatic.com/media/6541df_33c09fe8bb5e4a6bbb79490cc1fb5d8d~mv2.gif" width="300"/>
 <p align="center">
 <a href="https://www.linkedin.com/in/sanket-joshi-63b074144/" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="Sanket Joshi" width="22px" />
