@@ -16,7 +16,7 @@
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftazure.svg" alt="realsanket" width="22px" />
 </a></p>
 
-🏢 I’m currently working in [Relex Solutions](https://www.relexsolutions.com/) as **Cloud Engineer**
+🏢 I’m currently working as **Cloud Engineer**
 
 🌱 I’m currently working on **Creating Automation for Access Packages For Azure.**
 
