@@ -1,6 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=realsanket&label=Profile%20views&color=0e75b6&style=flat" alt="realsanket" /> </p>
 <h1 align="center">Hi 👋, I'm Sanket Joshi 🌀</h1>
 <h3 align="center">The Cloud☁️ Engineer  Guy who ♥ automating🧑🏻‍🔧 stuff</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=realsanket&label=Profile%20views&color=0e75b6&style=flat" alt="realsanket" /> </p>
+
   <img align="right" src="https://static.wixstatic.com/media/6541df_33c09fe8bb5e4a6bbb79490cc1fb5d8d~mv2.gif" width="300"/>
 <p align="center">
 <a href="https://www.linkedin.com/in/sanket-joshi-63b074144/" target="blank">
