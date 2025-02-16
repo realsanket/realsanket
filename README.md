@@ -1,48 +1,45 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realsanket&label=Profile%20views&color=0e75b6&style=flat" alt="realsanket" /> </p>
 <br>
 <h1 align="center">Hi 👋, I'm Sanket Joshi 🌀</h1>
-<h3 align="center">The Cloud☁️ Engineer  Guy who ♥ automating🧑🏻‍🔧 stuff</h3>
+<h3 align="center">The Cloud☁️ Tech Lead who ♥ automating🧑🏻‍🔧 stuff</h3>
 
-  <img align="right" src="https://static.wixstatic.com/media/6541df_33c09fe8bb5e4a6bbb79490cc1fb5d8d~mv2.gif" width="300"/>
+<img align="right" src="https://static.wixstatic.com/media/6541df_33c09fe8bb5e4a6bbb79490cc1fb5d8d~mv2.gif" width="300"/>
+
 <p align="center">
-<a href="https://www.linkedin.com/in/sanket-joshi-63b074144/" target="blank">
+<a href="https://www.linkedin.com/in/sanketjoshi31/" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="Sanket Joshi" width="22px" />
 </a>
   &nbsp;&nbsp;
-
 <a href="https://www.instagram.com/realsanket/" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/instagram.svg" alt="realsanket" width="22px" />
 </a>
   &nbsp;&nbsp;
-<a href="https://realsanket.azurewebsites.net/" target="blank">
+<a href="https://sanketdevstories.in/" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftazure.svg" alt="realsanket" width="22px" />
 </a></p>
 
-🏢 I’m currently working as **Cloud Engineer**
+---
 
-🌱 I’m currently working on **Creating Automation for Access Packages For Azure.**
+### 🏢 **About Me**
+- 🌟 I’m currently working as a **Senior Cloud Developer** at **OP**  
+- 🌱 I’m currently working on **building reusable Terraform modules, automating access packages, and optimizing FinOps strategies**  
+- 💡 Hashtag that describes me **`#CloudWizard`**  
+- 💬 Ask me about **Cloud & DevOps Automation, Terraform, CI/CD Pipelines, and Cloud Security**  
+- 📧 You can reach me at **joshisanket097@gmail.com**  
+- ⚡ Fun fact **I work in the best Cloud Team In The World (According to us 😆).**  
 
-💡 Hashtag that describes me **`#CloudWizard`**
+---
 
-💬 Ask me about **DevOps Tools and Practices** and **Cloud Computing**
+### 👨‍💻 **Recent Projects**
+- 📦 **Built a Self-Service Platform** enabling teams to deploy resources independently, boosting productivity.  
+- 📦 **Automated Access Package Creation** using **Python, Terraform External Provider & MS Graph APIs**, reducing manual effort by 90%.  
+- 📦 **Designed & Implemented a High Availability Solution** using **Azure Load Balancer, Application Gateway & Traffic Manager**.  
+- 📦 **Led the migration of on-premises servers to Azure** (IaaS/PaaS).  
+- 📦 **Developed CI/CD Pipelines** in Azure DevOps to automate deployments, including Terraform-based infrastructure provisioning.  
+- 📦 **Replaced database-to-SAP connectivity** using **Azure Service Bus & Azure Functions** for a more scalable and efficient integration.  
+- 📦 **Refactored & modernized legacy codebases**, reducing operating costs and improving maintainability.  
 
-📫 You can reach me at *joshisanket097@gmail.com*
-
-⚡ Fun fact **I work in the best Cloud Team In The World(According to us 😆).**
-
-##### 👨‍💻 Some of the projects I have worked recently
-
-- 📦 Access Package Automation for Azure
-
-- 📦 Designed and Implemented High Availability solution using Load Balancer, Application Gateway & Traffic Manager.
-
-- 📦 Worked on planning and migration of on-premises servers to Azure(IAAS/PAAS).
-
-- 📦 Designed and deployed CI/CD Pipeline in Azure DevOps to automate different application deployment including deploying Azure Resources by using Terraform.
-
-- 📦 Used Azure Service Bus and Azure Function to replace the Linked connectivity between Databases(SQL,Oracle) and SAP.
-
-- 📦 Revised, modularized and updated old code bases to modern development standards, reducing operating costs and improving functionality.
+---
 
 ##### 🧾 Certifications I have Accomplished
 
@@ -54,7 +51,7 @@
 - 🎖 HashiCorp Certified: Terraform Associate (003)[here](https://www.credly.com/badges/6b734acc-ca67-4153-a96b-5facfcacabd9/linked_in_profile)
 - 🎖 Microsoft Certified: DevOps Engineer Expert [here](https://www.credly.com/badges/d3efabdc-5d56-462a-9974-8ed1aec0a72c/linked_in_profile)
 
-- 🎖🎖🎖 Complete list of my certifications [here](https://www.credly.com/users/sanket-joshi.fc9be487/badges)
+- 🎖🎖🎖 Complete list of my certifications [here](https://www.credly.com/users/sanketjoshi31)
 
 #### Programming Language Stack
 
@@ -97,7 +94,7 @@
 
 #### Editor / IDE I ♥
 
-<p align="left"><img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="sublime" title="sublime" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
+<p align="left"><img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
 
 ### 📊 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
