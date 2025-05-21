@@ -21,7 +21,7 @@
 ---
 
 ### 🏢 **About Me**
-- 🌟 I’m currently working as a **Senior Cloud Developer** at **OP**  
+- 🌟 I’m currently working as a **Senior Data Engineerr** at **OP**  
 - 🌱 I’m currently working on **building reusable Terraform modules, automating access packages, and optimizing FinOps strategies**  
 - 💡 Hashtag that describes me **`#CloudWizard`**  
 - 💬 Ask me about **Cloud & DevOps Automation, Terraform, CI/CD Pipelines, and Cloud Security**  
