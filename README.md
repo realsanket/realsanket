@@ -527,39 +527,41 @@ Cloud & AI Projects
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+the+Future+of+AI+%26+Cloud;Empowering+Engineers+Worldwide;Open+Source+%26+Community+Driven" alt="Typing SVG" />
 
 ### 🌟 **Show Your Appreciation**
-
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-github-with-cat-logo-an-online-community-for-software-development-logo-color-tal-revivo.png" width="64" height="64"/>
-
-**⭐ Star Repositories**
+<img src="https://img.shields.io/badge/GitHub-Star-yellow?style=for-the-badge&logo=github" width="120" height="35"/>
+<br>
+<strong>⭐ Star Repositories</strong>
 <br>
 <sub>Help others discover my projects</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/96/000000/external-github-community-of-software-developers-logo-duo-tal-revivo.png" width="64" height="64"/>
-
-**🔗 Follow on GitHub**
+<img src="https://img.shields.io/badge/GitHub-Follow-blue?style=for-the-badge&logo=github" width="120" height="35"/>
+<br>
+<strong>🔗 Follow on GitHub</strong>
 <br>
 <sub>Stay updated with latest innovations</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/external-justicon-flat-justicon/96/000000/external-share-notifications-justicon-flat-justicon.png" width="64" height="64"/>
-
-**📢 Share Projects**
+<img src="https://img.shields.io/badge/Share-Projects-green?style=for-the-badge&logo=share" width="120" height="35"/>
+<br>
+<strong>📢 Share Projects</strong>
 <br>
 <sub>Spread knowledge in your network</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/external-soft-fill-juicy-fish/96/000000/external-social-social-media-soft-fill-soft-fill-juicy-fish.png" width="64" height="64"/>
-
-**☕ Connect Socially**
+<img src="https://img.shields.io/badge/Connect-Social-red?style=for-the-badge&logo=coffee" width="120" height="35"/>
+<br>
+<strong>☕ Connect Socially</strong>
 <br>
 <sub>Join conversations & collaborate</sub>
 </td>
 </tr>
 </table>
+
+---
+
 
 ### 🚀 **Ways to Engage & Contribute**
 
