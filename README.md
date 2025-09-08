@@ -430,9 +430,6 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=realsanket&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</td>
-<td align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=realsanket&theme=tokyonight" alt="GitHub Streak" />
 </td>
 </tr>
@@ -440,10 +437,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realsanket&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
 
-### 📈 **Contribution Graph**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=realsanket&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" />
-
-</div>
 
 ---
 
