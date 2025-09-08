@@ -148,7 +148,7 @@
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="48" height="48" alt="OpenAI" />
+<img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg](https://az-icons.com/export/icons/ab7d4a660b7712dc407b9eef4c69f2ef.svg" width="48" height="48" alt="OpenAI" />
 <br>Azure OpenAI
 </td>
 <td align="center" width="96">
