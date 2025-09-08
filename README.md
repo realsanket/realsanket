@@ -148,7 +148,7 @@
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg](https://az-icons.com/export/icons/ab7d4a660b7712dc407b9eef4c69f2ef.svg" width="48" height="48" alt="OpenAI" />
+<img src="https://az-icons.com/export/icons/ab7d4a660b7712dc407b9eef4c69f2ef.svg" width="48" height="48" alt="OpenAI" />
 <br>Azure OpenAI
 </td>
 <td align="center" width="96">
@@ -246,7 +246,7 @@
 <br>GitHub Actions
 </td>
 <td align="center" width="96">
-<img src="https://logowik.com/content/uploads/images/azure-devops6325.jpg" width="48" height="48" alt="Azure DevOps" />
+<img src="https://icon.icepanel.io/Technology/svg/Azure-Devops.svg" width="48" height="48" alt="Azure DevOps" />
 <br>Azure DevOps
 </td>
 <td align="center" width="96">
@@ -280,7 +280,7 @@
 <br>CDN
 </td>
 <td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/devsecops.svg" width="48" height="48" alt="DevSecOps" />
+<img src="https://correcta.es/wp-content/uploads/2021/05/Ciclo-DevSecOps.png" width="48" height="48" alt="DevSecOps" />
 <br>DevSecOps
 </td>
 </tr>
@@ -294,7 +294,7 @@
 <br>Azure AD / Entra ID
 </td>
 <td align="center" width="96">
-<img src="https://logowik.com/content/uploads/images/azure-ad-b2c4170.jpg" width="48" height="48" alt="Azure AD B2C" />
+<img src="https://code.benco.io/icon-collection/azure-icons/Azure-AD-B2C.svg" width="48" height="48" alt="Azure AD B2C" />
 <br>Azure AD B2C
 </td>
 <td align="center" width="96">
@@ -306,7 +306,7 @@
 <br>IAM & PIM
 </td>
 <td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/sso.svg" width="48" height="48" alt="SSO" />
+<img src="https://cdn-ildocai.nitrocdn.com/cneMytWhfkamYZpqtWmmQAZusJbfIbZZ/assets/images/source/rev-577514f/www.sine.co/wp-content/uploads/2023/05/SSO-Icon.svg" width="48" height="48" alt="SSO" />
 <br>SSO
 </td>
 <td align="center" width="96">
@@ -370,7 +370,7 @@
 <br>Network Monitoring
 </td>
 <td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/disaster-recovery.svg" width="48" height="48" alt="DR" />
+<img src="https://cdn-icons-png.flaticon.com/512/10835/10835086.png" width="48" height="48" alt="DR" />
 <br>Disaster Recovery
 </td>
 </tr>
@@ -384,7 +384,7 @@
 <br><strong>Agile Development</strong>
 </td>
 <td align="center" width="120">
-<img src="https://cdn.worldvectorlogo.com/logos/ci-cd.svg" width="48" height="48" alt="CI/CD" />
+<img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" width="48" height="48" alt="CI/CD" />
 <br><strong>CI/CD Pipelines</strong>
 </td>
 <td align="center" width="120">
@@ -392,7 +392,7 @@
 <br><strong>Cloud Infrastructure</strong>
 </td>
 <td align="center" width="120">
-<img src="https://cdn.worldvectorlogo.com/logos/infrastructure-as-code.svg" width="48" height="48" alt="IaC" />
+<img src="https://www.svgrepo.com/show/521316/terraform-16.svg" width="48" height="48" alt="IaC" />
 <br><strong>Infrastructure as Code</strong>
 </td>
 <td align="center" width="120">
