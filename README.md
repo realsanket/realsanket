@@ -140,12 +140,11 @@
 </div>
 
 ---
-
 ## 🛠️ **Tech Stack & Expertise**
 
 <div align="center">
 
-### 🤖 **AI & Development**
+### 🤖 **AI & Intelligent Development**
 <table>
 <tr>
 <td align="center" width="96">
@@ -169,13 +168,39 @@
 <br>Node.js
 </td>
 <td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="48" height="48" alt="Bash" />
-<br>Bash
+<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" width="48" height="48" alt="Angular" />
+<br>Angular
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="48" height="48" alt="TypeScript" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="48" height="48" alt="REST API" />
+<br>REST APIs
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="48" height="48" alt="Microservices" />
+<br>Microservices
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/serverless/serverless-icon.svg" width="48" height="48" alt="Serverless" />
+<br>Serverless
+</td>
+<td align="center" width="96">
+<img src="https://cdn.worldvectorlogo.com/logos/web-services.svg" width="48" height="48" alt="Web Services" />
+<br>Web Services
 </td>
 </tr>
 </table>
 
-### ☁️ **Cloud & Infrastructure**
+### ☁️ **Cloud Platforms & Infrastructure**
 <table>
 <tr>
 <td align="center" width="96">
@@ -183,8 +208,12 @@
 <br>Microsoft Azure
 </td>
 <td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="48" height="48" alt="Terraform" />
-<br>Terraform
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="48" height="48" alt="AWS" />
+<br>AWS Cloud
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="48" height="48" alt="GCP" />
+<br>Google Cloud
 </td>
 <td align="center" width="96">
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="48" height="48" alt="Kubernetes" />
@@ -195,30 +224,26 @@
 <br>Docker
 </td>
 <td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="48" height="48" alt="AWS" />
-<br>AWS
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="48" height="48" alt="GCP" />
-<br>Google Cloud
+<img src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png" width="48" height="48" alt="Nginx" />
+<br>Nginx
 </td>
 </tr>
 </table>
 
-### 🔧 **DevOps & Automation**
+### 🚀 **DevOps & Cloud Automation**
 <table>
 <tr>
 <td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="48" height="48" alt="Terraform" />
+<br>Terraform (IaC)
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="48" height="48" alt="Terraform Cloud" />
+<br>Terraform Cloud
+</td>
+<td align="center" width="96">
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="48" height="48" alt="GitHub Actions" />
 <br>GitHub Actions
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="48" height="48" alt="Ansible" />
-<br>Ansible
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="48" height="48" alt="Jenkins" />
-<br>Jenkins
 </td>
 <td align="center" width="96">
 <img src="https://logowik.com/content/uploads/images/azure-devops6325.jpg" width="48" height="48" alt="Azure DevOps" />
@@ -226,11 +251,67 @@
 </td>
 <td align="center" width="96">
 <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="48" height="48" alt="GitLab" />
-<br>GitLab CI
+<br>GitLab CI/CD
 </td>
 <td align="center" width="96">
-<img src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png" width="48" height="48" alt="Nginx" />
-<br>Nginx
+<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="48" height="48" alt="Ansible" />
+<br>Ansible
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="48" height="48" alt="Jenkins" />
+<br>Jenkins
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
+<br>Git & Azure Repo
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="48" height="48" alt="Grafana" />
+<br>Grafana
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="48" height="48" alt="Prometheus" />
+<br>Prometheus
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" width="48" height="48" alt="CDN" />
+<br>CDN
+</td>
+<td align="center" width="96">
+<img src="https://cdn.worldvectorlogo.com/logos/devsecops.svg" width="48" height="48" alt="DevSecOps" />
+<br>DevSecOps
+</td>
+</tr>
+</table>
+
+### 🔐 **Identity & Security**
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="48" height="48" alt="Azure AD" />
+<br>Azure AD / Entra ID
+</td>
+<td align="center" width="96">
+<img src="https://logowik.com/content/uploads/images/azure-ad-b2c4170.jpg" width="48" height="48" alt="Azure AD B2C" />
+<br>Azure AD B2C
+</td>
+<td align="center" width="96">
+<img src="https://cdn.worldvectorlogo.com/logos/oauth.svg" width="48" height="48" alt="OAuth" />
+<br>OAuth/OIDC
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="48" height="48" alt="IAM" />
+<br>IAM & PIM
+</td>
+<td align="center" width="96">
+<img src="https://cdn.worldvectorlogo.com/logos/sso.svg" width="48" height="48" alt="SSO" />
+<br>SSO
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="48" height="48" alt="SIEM" />
+<br>SIEM & Security
 </td>
 </tr>
 </table>
@@ -247,6 +328,10 @@
 <br>MySQL
 </td>
 <td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="48" height="48" alt="SQL Server" />
+<br>MS SQL Server
+</td>
+<td align="center" width="96">
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="48" height="48" alt="MongoDB" />
 <br>MongoDB
 </td>
@@ -258,12 +343,81 @@
 <img src="https://logowik.com/content/uploads/images/azure-cosmos-db7049.jpg" width="48" height="48" alt="Cosmos DB" />
 <br>Cosmos DB
 </td>
+</tr>
+</table>
+
+### 🖥️ **Operating Systems & Scripting**
+<table>
+<tr>
 <td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="48" height="48" alt="Oracle" />
-<br>Oracle
+<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="48" height="48" alt="Windows" />
+<br>Windows/Server
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="48" height="48" alt="Bash" />
+<br>Bash
+</td>
+<td align="center" width="96">
+<img src="https://cdn.worldvectorlogo.com/logos/powershell.svg" width="48" height="48" alt="PowerShell" />
+<br>PowerShell
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="48" height="48" alt="Network" />
+<br>Network Monitoring
+</td>
+<td align="center" width="96">
+<img src="https://cdn.worldvectorlogo.com/logos/disaster-recovery.svg" width="48" height="48" alt="DR" />
+<br>Disaster Recovery
 </td>
 </tr>
 </table>
+
+### 📊 **Methodologies & Practices**
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="48" height="48" alt="Agile" />
+<br><strong>Agile Development</strong>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.worldvectorlogo.com/logos/ci-cd.svg" width="48" height="48" alt="CI/CD" />
+<br><strong>CI/CD Pipelines</strong>
+</td>
+<td align="center" width="120">
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="48" height="48" alt="Cloud Infra" />
+<br><strong>Cloud Infrastructure</strong>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.worldvectorlogo.com/logos/infrastructure-as-code.svg" width="48" height="48" alt="IaC" />
+<br><strong>Infrastructure as Code</strong>
+</td>
+<td align="center" width="120">
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="48" height="48" alt="Architecture" />
+<br><strong>Microservices Architecture</strong>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### 🎯 **Expertise Highlights**
+
+<div align="center">
+
+| **Category** | **Core Skills** | **Advanced Capabilities** |
+|--------------|-----------------|---------------------------|
+| 🤖 **AI & Automation** | Azure OpenAI, GitHub Copilot, Python | Custom AI model integration, Intelligent automation workflows |
+| ☁️ **Cloud Architecture** | Azure, AWS, Multi-cloud strategies | Enterprise-scale deployments, Cost optimization, FinOps |
+| 🚀 **DevOps Excellence** | Terraform, GitHub Actions, K8s | Zero-downtime deployments, Infrastructure automation |
+| 🔐 **Security & Identity** | Azure AD, OAuth/OIDC, DevSecOps | Zero-trust architecture, Compliance automation |
+| 📊 **Data & Analytics** | SQL Server, PostgreSQL, MongoDB | Real-time analytics, Data pipeline optimization |
+| 🛠️ **Development** | .NET Core, Python, Angular, TypeScript | Full-stack development, API design, Microservices |
 
 </div>
 
@@ -366,16 +520,107 @@ Cloud & AI Projects
 
 <div align="center">
 
-### 💝 **Support My Work**
+---
 
-If you find my content helpful, consider:
-- ⭐ **Starring** my repositories
-- 🔗 **Following** me on GitHub
-- 📢 **Sharing** my projects with your network
-- ☕ **Connecting** on my social platforms
+## 💝 **Support My Work & Join the Community**
 
-**"Empowering the next generation of cloud and AI engineers through community, mentorship, and innovation."**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+the+Future+of+AI+%26+Cloud;Empowering+Engineers+Worldwide;Open+Source+%26+Community+Driven" alt="Typing SVG" />
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer)
+### 🌟 **Show Your Appreciation**
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-github-with-cat-logo-an-online-community-for-software-development-logo-color-tal-revivo.png" width="64" height="64"/>
+
+**⭐ Star Repositories**
+<br>
+<sub>Help others discover my projects</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/96/000000/external-github-community-of-software-developers-logo-duo-tal-revivo.png" width="64" height="64"/>
+
+**🔗 Follow on GitHub**
+<br>
+<sub>Stay updated with latest innovations</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/external-justicon-flat-justicon/96/000000/external-share-notifications-justicon-flat-justicon.png" width="64" height="64"/>
+
+**📢 Share Projects**
+<br>
+<sub>Spread knowledge in your network</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/external-soft-fill-juicy-fish/96/000000/external-social-social-media-soft-fill-soft-fill-juicy-fish.png" width="64" height="64"/>
+
+**☕ Connect Socially**
+<br>
+<sub>Join conversations & collaborate</sub>
+</td>
+</tr>
+</table>
+
+### 🚀 **Ways to Engage & Contribute**
+
+<div align="center">
+
+| 🎯 **Action** | 💡 **Impact** | 🔗 **How To** |
+|---------------|---------------|----------------|
+| ⭐ **Star My Repos** | Help projects gain visibility | Click the ⭐ button on repositories you find useful |
+| 🍴 **Fork & Contribute** | Improve projects together | Fork → Make changes → Submit PR |
+| 💬 **Join Discussions** | Share ideas & get help | Comment on issues, start discussions |
+| 📝 **Write Reviews** | Help others discover content | Leave feedback on TopMate sessions |
+| 🎤 **Invite for Speaking** | Spread knowledge at events | Contact me for conference talks |
+| 🤝 **Collaborate** | Build something amazing together | Reach out for partnership opportunities |
+
+</div>
+
+### 🌐 **Quick Connect**
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/realsanket)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanketjoshi31/)
+[![TopMate](https://img.shields.io/badge/Book_1:1_Session-FF6B6B?style=for-the-badge&logo=calendar&logoColor=white)](https://topmate.io/sanketjoshi3103)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://sanketdevstories.in/)
+
+</div>
+
+---
+
+### 💭 **Mission Statement**
+
+<div align="center">
+
+```
+🌟 "Empowering the next generation of cloud and AI engineers 
+   through community, mentorship, and innovation." 🌟
+```
+
+<sub>*Building bridges between cutting-edge technology and real-world impact*</sub>
+
+</div>
+
+---
+
+### 🎉 **Thank You to My Supporters!**
+
+<div align="center">
+
+<img src="https://img.shields.io/github/stars/realsanket?affiliations=OWNER&style=social" alt="GitHub Stars"/>
+<img src="https://img.shields.io/github/followers/realsanket?style=social" alt="GitHub Followers"/>
+
+<br><br>
+
+**Every star ⭐, follow 👥, and share 📢 makes a difference!**
+
+<sub>Together, we're building a more intelligent and automated future 🚀</sub>
+
+</div>
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&animation=fadeIn)
 
 </div>
