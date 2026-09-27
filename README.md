@@ -13,6 +13,9 @@
 <a href="https://www.credly.com/users/sanketjoshi31"><img src="https://img.shields.io/badge/Credly-Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"></a>
 <a href="https://topmate.io/sanketjoshi3103"><img src="https://img.shields.io/badge/Topmate-Book_a_session-E5484D?style=for-the-badge" alt="Topmate"></a>
 
+<img src="https://komarev.com/ghpvc/?username=realsanket&label=profile%20views&color=0e75b6&style=flat" alt="Profile views">
+<a href="https://github.com/realsanket?tab=followers"><img src="https://img.shields.io/github/followers/realsanket?label=followers&style=flat&color=6d28d9" alt="GitHub followers"></a>
+
 <br><br>
 
 <picture>
@@ -24,7 +27,7 @@
 
 ### Hi, I'm Sanket 👋
 
-I design **Azure platforms**, automate infrastructure with **Terraform, GitHub Actions and Azure DevOps**, and bring **AI agents into production**. I'm based in Helsinki and build agent platforms for healthcare customers at Tieto.
+I design **Azure platforms**, automate infrastructure with **Terraform, GitHub Actions and Azure DevOps**, and bring **AI agents into production**. I'm based in Helsinki and build agent platforms for healthcare customers at Tieto. Fun fact: I work with the best cloud team in the world. 😆
 
 <a href="https://sanketdevstories.in/about"><img src="assets/terminal.svg" width="100%" alt="Terminal: terraform apply on my career. Azure platforms at RELEX and OP, 30% FinOps savings, AI agents in production at Tieto, and community work as MVP, MCT, speaker and mentor. Apply complete: 4 case studies, 15 certifications, 80+ articles."></a>
 
@@ -59,6 +62,8 @@ I design **Azure platforms**, automate infrastructure with **Terraform, GitHub A
 <td width="33%" valign="top"><img src="assets/talks/github-copilot-live-demo.webp" width="100%" alt="Sanket presenting at Microsoft DevXperience"><br><b>Microsoft DevXperience</b><br><sub>BYOK for GitHub Copilot: your own keys and custom models for enterprise teams</sub></td>
 </tr>
 </table>
+
+**Community:** 🏆 **Microsoft MVP (Azure)** for Terraform AzureRM → AzAPI migration guidance, architecture workshops, open-source templates and mentoring · 🎯 **Top 1% Club of Experts** on [Topmate](https://topmate.io/sanketjoshi3103), with People's Choice and Community Leader recognition · 🧑‍🏫 **Microsoft Certified Trainer**
 
 ## ✍️ Latest writing
 
@@ -104,6 +109,9 @@ I design **Azure platforms**, automate infrastructure with **Terraform, GitHub A
 **[Azure Multi-Client Manager (AZM)](https://github.com/realsanket/azm-client-manager)**: a cross-platform CLI (Bash & PowerShell) that keeps each client's Azure session isolated, detects expired logins and compares environments. No more commands run in the wrong tenant.
 
 ## 🤝 Let's talk
+
+> 🌟 *Empowering the next generation of cloud and AI engineers through community, mentorship and innovation.*
+
 
 **Mentoring** on [Topmate](https://topmate.io/sanketjoshi3103) · **Speaking** on Azure, platform engineering and agentic DevOps · **Roles & collaborations** via [LinkedIn](https://www.linkedin.com/in/sanketjoshi31/) or [email](mailto:joshisanket097@gmail.com)
 
