@@ -26,17 +26,11 @@
 
 I design **Azure platforms**, automate infrastructure with **Terraform, GitHub Actions and Azure DevOps**, and bring **AI agents into production**. I'm based in Helsinki and build agent platforms for healthcare customers at Tieto.
 
-```hcl
-resource "engineer" "sanket_joshi" {
-  title     = "Azure Cloud Architect & DevOps Engineer"
-  location  = "Helsinki, Finland"
-  current   = "Senior AI Engineer @ Tieto"
-  journey   = ["TCS", "Allscripts", "LTIMindtree", "RELEX", "OP", "Tieto"]  # 2017 → today
-  community = ["Microsoft MVP (Azure)", "Microsoft Certified Trainer", "Speaker", "Mentor"]
+<a href="https://sanketdevstories.in/about"><img src="assets/terminal.svg" width="100%" alt="Terminal: terraform apply on my career. Azure platforms at RELEX and OP, 30% FinOps savings, AI agents in production at Tieto, and community work as MVP, MCT, speaker and mentor. Apply complete: 4 case studies, 15 certifications, 80+ articles."></a>
 
-  lifecycle { prevent_destroy = true }  # production mindset, always
-}
-```
+## 🚀 The pipeline so far
+
+<a href="https://sanketdevstories.in/#story"><img src="assets/career-pipeline.svg" width="100%" alt="My career as a CI/CD pipeline: TCS, Allscripts, LTIMindtree, RELEX, OP, and Tieto (in progress)."></a>
 
 ## 🧭 Case studies
 
@@ -104,4 +98,11 @@ resource "engineer" "sanket_joshi" {
 
 **Mentoring** on [Topmate](https://topmate.io/sanketjoshi3103) · **Speaking** on Azure, platform engineering and agentic DevOps · **Roles & collaborations** via [LinkedIn](https://www.linkedin.com/in/sanketjoshi31/) or [email](mailto:joshisanket097@gmail.com)
 
-<div align="center"><sub>More about me at <a href="https://sanketdevstories.in/about">sanketdevstories.in/about</a></sub></div>
+## 🐍 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/realsanket/realsanket/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/realsanket/realsanket/output/github-snake.svg" width="100%" alt="A snake eating my GitHub contribution graph">
+</picture>
+
+<a href="https://sanketdevstories.in/about"><img src="assets/aurora-footer.svg" width="100%" alt="Northern lights over Helsinki: built in Helsinki, Finland."></a>

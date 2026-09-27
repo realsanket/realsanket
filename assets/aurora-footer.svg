@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Northern lights over Helsinki. Made in Helsinki, Finland.">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#030612"/><stop offset="1" stop-color="#0b1633"/></linearGradient>
+<linearGradient id="a1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#34d399" stop-opacity="0"/><stop offset=".55" stop-color="#34d399" stop-opacity=".55"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient>
+<linearGradient id="a2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a78bfa" stop-opacity="0"/><stop offset=".6" stop-color="#a78bfa" stop-opacity=".45"/><stop offset="1" stop-color="#60a5fa" stop-opacity="0"/></linearGradient>
+<filter id="blur"><feGaussianBlur stdDeviation="10"/></filter>
+</defs>
+<style>.w1{animation:w1 9s ease-in-out infinite alternate}.w2{animation:w2 12s ease-in-out infinite alternate}
+@keyframes w1{from{transform:translateX(-60px) scaleY(.9);opacity:.7}to{transform:translateX(60px) scaleY(1.1);opacity:1}}
+@keyframes w2{from{transform:translateX(50px);opacity:.9}to{transform:translateX(-70px);opacity:.5}}
+@media (prefers-reduced-motion: reduce){.w1,.w2{animation:none}}</style>
+<rect width="1200" height="240" fill="url(#sky)"/><circle cx="60" cy="30" r="1" fill="#fff" opacity="0.6"/><circle cx="210" cy="70" r="1.3" fill="#fff" opacity="0.5"/><circle cx="380" cy="24" r="1" fill="#fff" opacity="0.4"/><circle cx="520" cy="60" r="1" fill="#fff" opacity="0.5"/><circle cx="690" cy="20" r="1.2" fill="#fff" opacity="0.6"/><circle cx="830" cy="56" r="1" fill="#fff" opacity="0.4"/><circle cx="980" cy="28" r="1.3" fill="#fff" opacity="0.5"/><circle cx="1130" cy="64" r="1" fill="#fff" opacity="0.6"/><circle cx="1170" cy="20" r="1" fill="#fff" opacity="0.4"/><circle cx="300" cy="110" r="0.9" fill="#fff" opacity="0.35"/><circle cx="900" cy="100" r="0.9" fill="#fff" opacity="0.35"/>
+<g filter="url(#blur)"><path class="w1" d="M-100 120 C 150 20, 350 150, 600 70 S 1000 20, 1300 100 L1300 170 C 1000 90, 800 190, 600 130 S 150 110, -100 190 Z" fill="url(#a1)"/>
+<path class="w2" d="M-100 90 C 200 150, 400 40, 700 100 S 1100 150, 1300 60 L1300 120 C 1100 200, 900 130, 700 160 S 200 190, -100 150 Z" fill="url(#a2)"/></g>
+<g fill="#050814">
+<rect x="0" y="206" width="1200" height="34"/>
+<rect x="80" y="184" width="60" height="24"/><rect x="150" y="176" width="40" height="32"/><rect x="200" y="190" width="70" height="18"/>
+<rect x="760" y="186" width="56" height="22"/><rect x="826" y="174" width="34" height="34"/><rect x="870" y="192" width="80" height="16"/><rect x="1010" y="182" width="50" height="26"/>
+<rect x="1070" y="170" width="16" height="38"/><path d="M1074 170l4-18 4 18z"/>
+<rect x="520" y="170" width="160" height="38"/><rect x="560" y="150" width="80" height="22"/>
+<circle cx="600" cy="138" r="24"/><rect x="596" y="104" width="8" height="12"/>
+<circle cx="536" cy="160" r="9"/><circle cx="664" cy="160" r="9"/><rect x="530" y="160" width="12" height="12"/><rect x="658" y="160" width="12" height="12"/>
+</g>
+<text x="600" y="230" text-anchor="middle" font-family="'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="14" fill="#8190b5">Built under the northern lights · Helsinki, Finland · sanketdevstories.in</text>
+</svg>
