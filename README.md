@@ -28,9 +28,18 @@ I design **Azure platforms**, automate infrastructure with **Terraform, GitHub A
 
 <a href="https://sanketdevstories.in/about"><img src="assets/terminal.svg" width="100%" alt="Terminal: terraform apply on my career. Azure platforms at RELEX and OP, 30% FinOps savings, AI agents in production at Tieto, and community work as MVP, MCT, speaker and mentor. Apply complete: 4 case studies, 15 certifications, 80+ articles."></a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/quote-dark.svg">
+  <img src="assets/quote-light.svg" width="100%" alt="“A demo only has to work once. Production has to work every day.”">
+</picture>
+
 ## 🚀 The pipeline so far
 
 <a href="https://sanketdevstories.in/#story"><img src="assets/career-pipeline.svg" width="100%" alt="My career as a CI/CD pipeline: TCS, Allscripts, LTIMindtree, RELEX, OP, and Tieto (in progress)."></a>
+
+## 🧠 How I work
+
+<img src="assets/how-i-work.svg" width="100%" alt="How I work: 01 Ask why before how. 02 Prove the risky parts first. 03 Design for day two, not demo day. 04 Hand over, don't hand off.">
 
 ## 🧭 Case studies
 
