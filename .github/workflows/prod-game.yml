@@ -1,0 +1,57 @@
+# "Deploy to my production": visitors open an issue titled `prod: ship`,
+# `prod: rollback` or `prod: chaos` (the buttons in README.md prefill it).
+# This runs scripts/prod.mjs, commits the new state, dashboard and release
+# log, then replies to the issue and closes it.
+name: Visitor deploys
+
+on:
+  issues:
+    types: [opened]
+
+# One game move at a time, so moves never overwrite each other.
+concurrency:
+  group: prod-game
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  play:
+    if: startsWith(github.event.issue.title, 'prod:')
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Run the change on production
+        env:
+          # Passed as environment variables, never interpolated into the script.
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_USER: ${{ github.event.issue.user.login }}
+        run: node scripts/prod.mjs
+
+      - name: Commit the new state
+        env:
+          ISSUE: ${{ github.event.issue.number }}
+          PLAYER: ${{ github.event.issue.user.login }}
+        run: |
+          git config user.name "prod-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/prod.json assets/prod-status.svg README.md
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "prod: #$ISSUE by @$PLAYER"
+          for i in 1 2 3; do git pull --rebase --quiet && git push --quiet && break; sleep 5; done
+
+      - name: Reply and close the issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE: ${{ github.event.issue.number }}
+        run: |
+          gh issue comment "$ISSUE" --repo "$GITHUB_REPOSITORY" --body-file reply.md
+          gh issue close "$ISSUE" --repo "$GITHUB_REPOSITORY"

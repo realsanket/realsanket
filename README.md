@@ -107,6 +107,28 @@ I design **Azure platforms**, automate infrastructure with **Terraform, GitHub A
 
 **Mentoring** on [Topmate](https://topmate.io/sanketjoshi3103) · **Speaking** on Azure, platform engineering and agentic DevOps · **Roles & collaborations** via [LinkedIn](https://www.linkedin.com/in/sanketjoshi31/) or [email](mailto:joshisanket097@gmail.com)
 
+## 🎮 Deploy to my production
+
+My profile runs a tiny production system, and **you're on call**. Pick an action: it opens an issue, a real GitHub Actions pipeline runs your change, replies to you, and puts you in the release log below. Deploying on a Friday is allowed. It's just a very bad idea.
+
+<a href="https://github.com/realsanket/realsanket/issues/new?title=prod%3A%20ship&body=%F0%9F%91%89%20Just%20click%20%2A%2ACreate%2A%2A%20below.%20A%20GitHub%20Actions%20pipeline%20will%20run%20your%20change%20on%20my%20%22production%22%2C%20reply%20here%20and%20add%20you%20to%20the%20release%20log%20on%20my%20profile.%0A%0A%28Please%20don%27t%20edit%20the%20title.%29"><img src="https://img.shields.io/badge/🚀_Ship_it-34d399?style=for-the-badge" alt="Ship it"></a>
+<a href="https://github.com/realsanket/realsanket/issues/new?title=prod%3A%20rollback&body=%F0%9F%91%89%20Just%20click%20%2A%2ACreate%2A%2A%20below.%20A%20GitHub%20Actions%20pipeline%20will%20run%20your%20change%20on%20my%20%22production%22%2C%20reply%20here%20and%20add%20you%20to%20the%20release%20log%20on%20my%20profile.%0A%0A%28Please%20don%27t%20edit%20the%20title.%29"><img src="https://img.shields.io/badge/⏪_Roll_back-a78bfa?style=for-the-badge" alt="Roll back"></a>
+<a href="https://github.com/realsanket/realsanket/issues/new?title=prod%3A%20chaos&body=%F0%9F%91%89%20Just%20click%20%2A%2ACreate%2A%2A%20below.%20A%20GitHub%20Actions%20pipeline%20will%20run%20your%20change%20on%20my%20%22production%22%2C%20reply%20here%20and%20add%20you%20to%20the%20release%20log%20on%20my%20profile.%0A%0A%28Please%20don%27t%20edit%20the%20title.%29"><img src="https://img.shields.io/badge/🐒_Unleash_the_chaos_monkey-fbbf24?style=for-the-badge" alt="Run a chaos test"></a>
+
+<img src="assets/prod-status.svg" width="100%" alt="Live status of sanket-prod, the production system visitors deploy to">
+
+<details>
+<summary><b>📜 Release log</b></summary>
+<br>
+
+<!-- PROD-LOG:START -->
+| Build | Who | Action | Result | Date |
+|---|---|---|---|---|
+| #1 | [@realsanket](https://github.com/realsanket) | 🚀 ship | ✅ Build #1 deployed. All health checks green. | 2026-09-27 |
+<!-- PROD-LOG:END -->
+
+</details>
+
 ## 🐍 Contributions
 
 <picture>
