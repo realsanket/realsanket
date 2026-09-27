@@ -3,13 +3,13 @@
 <a href="https://sanketdevstories.in/about">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img src="assets/banner-light.svg" width="100%" alt="Sanket Joshi — Azure Cloud Architect & DevOps Engineer. Microsoft MVP (Azure), Senior AI Engineer at Tieto, Helsinki, Finland.">
+    <img src="assets/banner-light.svg" width="100%" alt="Sanket Joshi — Azure Cloud Architect & DevOps Engineer. Two-time Microsoft MVP (Azure), Senior AI Engineer at Tieto, Helsinki, Finland.">
   </picture>
 </a>
 
 <a href="https://sanketdevstories.in/about"><img src="https://img.shields.io/badge/sanketdevstories.in-0b1020?style=for-the-badge&logo=astro&logoColor=7dd3fc" alt="Website"></a>
 <a href="https://www.linkedin.com/in/sanketjoshi31/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://mvp.microsoft.com/en-US/MVP/profile/dbff38bc-d171-4f24-b009-125fe319b969"><img src="https://img.shields.io/badge/Microsoft_MVP-Azure-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft MVP"></a>
+<a href="https://mvp.microsoft.com/en-US/MVP/profile/dbff38bc-d171-4f24-b009-125fe319b969"><img src="https://img.shields.io/badge/Microsoft_MVP-Azure_×2-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft MVP"></a>
 <a href="https://www.credly.com/users/sanketjoshi31"><img src="https://img.shields.io/badge/Credly-Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"></a>
 <a href="https://topmate.io/sanketjoshi3103"><img src="https://img.shields.io/badge/Topmate-Book_a_session-E5484D?style=for-the-badge" alt="Topmate"></a>
 
@@ -20,7 +20,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img src="assets/stats-light.svg" width="100%" alt="9+ years in software and cloud · 15 certifications · 4 case studies · 80+ articles · Microsoft MVP (Azure)">
+  <img src="assets/stats-light.svg" width="100%" alt="9+ years in software and cloud · 15 certifications · 4 case studies · 80+ articles · two-time Microsoft MVP (Azure)">
 </picture>
 
 </div>
@@ -63,7 +63,7 @@ I design **Azure platforms**, automate infrastructure with **Terraform, GitHub A
 </tr>
 </table>
 
-**Community:** 🏆 **Microsoft MVP (Azure)** for Terraform AzureRM → AzAPI migration guidance, architecture workshops, open-source templates and mentoring · 🎯 **Top 1% Club of Experts** on [Topmate](https://topmate.io/sanketjoshi3103), with People's Choice and Community Leader recognition · 🧑‍🏫 **Microsoft Certified Trainer**
+**Community:** 🏆 **Two-time Microsoft MVP (Azure)** for Terraform AzureRM → AzAPI migration guidance, architecture workshops, open-source templates and mentoring · 🎯 **Top 1% Club of Experts** on [Topmate](https://topmate.io/sanketjoshi3103), with People's Choice and Community Leader recognition · 🧑‍🏫 **Microsoft Certified Trainer**
 
 ## ✍️ Latest writing
 
