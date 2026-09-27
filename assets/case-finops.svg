@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" role="img" aria-label="FinOps · RELEX Solutions: Finding 30% in the Azure bill">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070b1a"/><stop offset="1" stop-color="#121c40"/></linearGradient>
+<radialGradient id="g" cx="0.9" cy="0.1" r="0.7"><stop offset="0" stop-color="#fbbf24" stop-opacity="0.28"/><stop offset="1" stop-color="#fbbf24" stop-opacity="0"/></radialGradient></defs>
+<rect x="1" y="1" width="598" height="298" rx="18" fill="url(#bg)" stroke="#fbbf24" stroke-opacity="0.35"/>
+<rect x="1" y="1" width="598" height="298" rx="18" fill="url(#g)"/>
+<g transform="translate(36 34)" fill="none" stroke="#fbbf24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M15 8.5c-.6-.9-1.7-1.5-3-1.5-1.9 0-3 1-3 2.3 0 3 6 1.6 6 4.7 0 1.3-1.2 2.5-3 2.5-1.4 0-2.6-.6-3.2-1.6M12 5v2M12 17v2"/></g>
+<text x="72" y="52" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="14" letter-spacing="1" fill="#fbbf24">FINOPS · RELEX SOLUTIONS</text>
+<text x="36" y="112" font-family="'Instrument Serif',Georgia,'Times New Roman',serif" font-size="36" fill="#f3f6ff">Finding 30% in</text><text x="36" y="152" font-family="'Instrument Serif',Georgia,'Times New Roman',serif" font-size="36" fill="#f3f6ff">the Azure bill</text><text x="564" y="118" text-anchor="end" font-family="'Instrument Serif',Georgia,'Times New Roman',serif" font-size="64" fill="#fbbf24">30%</text><text x="564" y="142" text-anchor="end" font-family="'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="14" fill="#aab6d6">lower cloud costs</text>
+<line x1="36" y1="226" x2="564" y2="226" stroke="#ffffff" stroke-opacity="0.1"/>
+<text x="36" y="262" font-family="'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="15" fill="#aab6d6">Azure · FinOps · Terraform · Governance</text>
+<text x="564" y="262" text-anchor="end" font-family="'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#fbbf24">Read the case study →</text>
+</svg>

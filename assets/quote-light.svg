@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="A demo only has to work once. Production has to work every day.">
+<defs><linearGradient id="q" x1="0" x2="1"><stop offset="0" stop-color="#0369a1"/><stop offset="1" stop-color="#6d28d9"/></linearGradient></defs>
+<rect x="1" y="1" width="1198" height="198" rx="16" fill="#f4f7fd"/>
+<text x="70" y="120" font-family="'Instrument Serif',Georgia,'Times New Roman',serif" font-size="150" fill="url(#q)" opacity="0.5">“</text>
+<text x="600" y="92" text-anchor="middle" font-family="'Instrument Serif',Georgia,'Times New Roman',serif" font-size="40" fill="#0d1430">A demo only has to work once.</text>
+<text x="600" y="140" text-anchor="middle" font-family="'Instrument Serif',Georgia,'Times New Roman',serif" font-size="40" font-style="italic" fill="url(#q)">Production has to work every day.</text>
+<text x="600" y="176" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="13" letter-spacing="2" fill="#44507a">— HOW I BUILD</text>
+</svg>

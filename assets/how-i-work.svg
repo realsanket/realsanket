@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="How I work: 1. Ask why before how. 2. Prove the risky parts first. 3. Design for day two, not demo day. 4. Hand over, don't hand off.">
+<rect x="1" y="1" width="1198" height="258" rx="16" fill="#0a0f22" stroke="#ffffff" stroke-opacity="0.1"/><rect x="30.0" y="30" width="270" height="200" rx="14" fill="#0f1733" stroke="#7dd3fc" stroke-opacity="0.35"/>
+<text x="52.0" y="78" font-family="'Instrument Serif',Georgia,'Times New Roman',serif" font-size="40" fill="#7dd3fc">01</text>
+<text x="278.0" y="70" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11.5" letter-spacing="1" fill="#7dd3fc">WORKSHOP</text>
+<text x="52.0" y="122" font-family="'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="16.5" font-weight="700" fill="#f3f6ff">Ask why before how</text>
+<text x="52.0" y="162" font-family="'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="12.4" fill="#aab6d6">Agree on the problem, who it’s for</text>
+<text x="52.0" y="182" font-family="'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="12.4" fill="#aab6d6">and what can’t change. Tech comes after.</text><rect x="320.0" y="30" width="270" height="200" rx="14" fill="#0f1733" stroke="#a78bfa" stroke-opacity="0.35"/>
+<text x="342.0" y="78" font-family="'Instrument Serif',Georgia,'Times New Roman',serif" font-size="40" fill="#a78bfa">02</text>
+<text x="568.0" y="70" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11.5" letter-spacing="1" fill="#a78bfa">PROOF OF CONCEPT</text>
+<text x="342.0" y="122" font-family="'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#f3f6ff">Prove the risky parts first</text>
+<text x="342.0" y="162" font-family="'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="12.4" fill="#aab6d6">Test the assumptions that could sink</text>
+<text x="342.0" y="182" font-family="'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="12.4" fill="#aab6d6">the design while changing course is cheap.</text><rect x="610.0" y="30" width="270" height="200" rx="14" fill="#0f1733" stroke="#fbbf24" stroke-opacity="0.35"/>
+<text x="632.0" y="78" font-family="'Instrument Serif',Georgia,'Times New Roman',serif" font-size="40" fill="#fbbf24">03</text>
+<text x="858.0" y="70" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11.5" letter-spacing="1" fill="#fbbf24">BUILD</text>
+<text x="632.0" y="122" font-family="'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#f3f6ff">Design for day two, not demo day</text>
+<text x="632.0" y="162" font-family="'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="12.4" fill="#aab6d6">Security, identity, cost and monitoring</text>
+<text x="632.0" y="182" font-family="'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="12.4" fill="#aab6d6">go into the first design, not the last sprint.</text><rect x="900.0" y="30" width="270" height="200" rx="14" fill="#0f1733" stroke="#34d399" stroke-opacity="0.35"/>
+<text x="922.0" y="78" font-family="'Instrument Serif',Georgia,'Times New Roman',serif" font-size="40" fill="#34d399">04</text>
+<text x="1148.0" y="70" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="11.5" letter-spacing="1" fill="#34d399">HAND-OVER</text>
+<text x="922.0" y="122" font-family="'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="16.5" font-weight="700" fill="#f3f6ff">Hand over, don’t hand off</text>
+<text x="922.0" y="162" font-family="'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="12.4" fill="#aab6d6">Modules, pipelines, docs and mentoring,</text>
+<text x="922.0" y="182" font-family="'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="12.4" fill="#aab6d6">so teams run it without me.</text></svg>
