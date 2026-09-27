@@ -7,100 +7,101 @@
   </picture>
 </a>
 
-[![Website](https://img.shields.io/badge/sanketdevstories.in-0b1020?style=for-the-badge&logo=astro&logoColor=7dd3fc)](https://sanketdevstories.in/about)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanketjoshi31/)
-[![Microsoft MVP](https://img.shields.io/badge/Microsoft_MVP-Azure-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/en-US/MVP/profile/dbff38bc-d171-4f24-b009-125fe319b969)
-[![Credly](https://img.shields.io/badge/Credly-Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/sanketjoshi31)
-[![Topmate](https://img.shields.io/badge/Topmate-Book_a_session-E5484D?style=for-the-badge)](https://topmate.io/sanketjoshi3103)
+<a href="https://sanketdevstories.in/about"><img src="https://img.shields.io/badge/sanketdevstories.in-0b1020?style=for-the-badge&logo=astro&logoColor=7dd3fc" alt="Website"></a>
+<a href="https://www.linkedin.com/in/sanketjoshi31/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://mvp.microsoft.com/en-US/MVP/profile/dbff38bc-d171-4f24-b009-125fe319b969"><img src="https://img.shields.io/badge/Microsoft_MVP-Azure-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft MVP"></a>
+<a href="https://www.credly.com/users/sanketjoshi31"><img src="https://img.shields.io/badge/Credly-Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"></a>
+<a href="https://topmate.io/sanketjoshi3103"><img src="https://img.shields.io/badge/Topmate-Book_a_session-E5484D?style=for-the-badge" alt="Topmate"></a>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img src="assets/stats-light.svg" width="100%" alt="9+ years in software and cloud · 15 certifications · 4 case studies · 80+ articles · Microsoft MVP (Azure)">
+</picture>
 
 </div>
 
-I design Azure platforms, automate infrastructure with Terraform, GitHub Actions and Azure DevOps, and bring AI agents into production. I'm based in Helsinki and work at Tieto on AI agent platforms for healthcare customers. I also write about Azure, DevOps and AI on [my blog](https://sanketdevstories.in/resource).
+### Hi, I'm Sanket 👋
+
+I design **Azure platforms**, automate infrastructure with **Terraform, GitHub Actions and Azure DevOps**, and bring **AI agents into production**. I'm based in Helsinki and build agent platforms for healthcare customers at Tieto.
 
 ```hcl
 resource "engineer" "sanket_joshi" {
-  title      = "Azure Cloud Architect & DevOps Engineer"
-  location   = "Helsinki, Finland"
-  current    = "Senior AI Engineer @ Tieto"   # since 2025
-  experience = "2017 → today: TCS, Allscripts, LTIMindtree, RELEX, OP, Tieto"
+  title     = "Azure Cloud Architect & DevOps Engineer"
+  location  = "Helsinki, Finland"
+  current   = "Senior AI Engineer @ Tieto"
+  journey   = ["TCS", "Allscripts", "LTIMindtree", "RELEX", "OP", "Tieto"]  # 2017 → today
+  community = ["Microsoft MVP (Azure)", "Microsoft Certified Trainer", "Speaker", "Mentor"]
 
-  recognition = ["Microsoft MVP (Azure)", "Microsoft Certified Trainer"]
-  focus       = ["Azure platforms", "Terraform", "CI/CD", "FinOps", "AI agents", "GitHub Copilot"]
-
-  lifecycle {
-    prevent_destroy = true  # production mindset, always
-  }
+  lifecycle { prevent_destroy = true }  # production mindset, always
 }
 ```
 
 ## 🧭 Case studies
 
-The problem, the architecture and the result for each project, written up on my site:
+<a href="https://sanketdevstories.in/work/finops"><img src="assets/case-finops.svg" width="49%" alt="FinOps at RELEX: finding 30% in the Azure bill"></a>
+<a href="https://sanketdevstories.in/work/self-service-azure"><img src="assets/case-self-service.svg" width="49%" alt="Platform engineering at OP: Azure without the platform-team ticket"></a>
+<a href="https://sanketdevstories.in/work/security-agents"><img src="assets/case-security-agents.svg" width="49%" alt="AI and security at Tieto: turning security findings into work AI agents can act on"></a>
+<a href="https://sanketdevstories.in/work/ai-gateway"><img src="assets/case-ai-gateway.svg" width="49%" alt="AI platform at Tieto: one gateway in front of every model"></a>
 
-| | Project | What it was | Where |
-|---|---|---|---|
-| 💰 | [**Finding 30% in the Azure bill**](https://sanketdevstories.in/work/finops) | Led FinOps across a company's Azure estate: found the waste and put governance in place so the savings lasted. **30% lower cloud costs.** | RELEX |
-| 🧱 | [**Azure without the platform-team ticket**](https://sanketdevstories.in/work/self-service-azure) | Reusable Terraform patterns and a self-service platform, so teams could provision Azure resources during an enterprise-wide migration. | OP |
-| 🛡️ | [**Turning security findings into work AI agents can act on**](https://sanketdevstories.in/work/security-agents) | A multi-tenant security platform where Microsoft Foundry agents help find and fix risks without crossing tenant boundaries. | Tieto |
-| 🚦 | [**One gateway in front of every model**](https://sanketdevstories.in/work/ai-gateway) | A governed entry point for LLM access, routing and observability with LiteLLM and Langfuse. | Tieto |
+<sub>Also: <b>90% less manual access work</b> with Entra ID automation (RELEX) · <b>40% faster legacy apps</b> (TCS) · Azure migrations (LTIMindtree) · GitHub Copilot + MCP with customer context (Tieto) · <a href="https://sanketdevstories.in/work">all work →</a></sub>
 
-Along the way: **90% less manual access work** by automating Entra ID access packages with Python, Terraform and Microsoft Graph (RELEX), **40% faster legacy applications** (TCS), on-premises-to-Azure migrations (LTIMindtree), and GitHub Copilot connected to customer context over MCP (Tieto).
+## 🎤 On stage
 
-## 🎤 Talks
-
-- **Microsoft Agentic AI & DevOps Days**: co-presented *Agentic DevOps*, with GitHub Copilot agents, Work IQ MCP, Microsoft Foundry agents and GitHub Actions from planning to incidents.
-- **DataTribe Collective, Helsinki**: *Production AI with Microsoft Foundry*, on prompt management, evaluation and running AI in production.
-- **Microsoft DevXperience**: *BYOK for GitHub Copilot*, on bringing your own key and custom models to enterprise AI-assisted development.
+<table>
+<tr>
+<td width="33%" valign="top"><img src="assets/talks/agentic-devops-days.webp" width="100%" alt="Sanket presenting at Microsoft Agentic AI & DevOps Days"><br><b>Microsoft Agentic AI & DevOps Days</b><br><sub>Agentic DevOps: Copilot agents, Foundry agents and GitHub Actions from planning to incidents</sub></td>
+<td width="33%" valign="top"><img src="assets/talks/datatribe-helsinki-2.webp" width="100%" alt="Sanket opening his talk at DataTribe Collective, Helsinki"><br><b>DataTribe Collective, Helsinki</b><br><sub>Production AI with Microsoft Foundry: prompts, evaluation and running AI in production</sub></td>
+<td width="33%" valign="top"><img src="assets/talks/github-copilot-live-demo.webp" width="100%" alt="Sanket presenting at Microsoft DevXperience"><br><b>Microsoft DevXperience</b><br><sub>BYOK for GitHub Copilot: your own keys and custom models for enterprise teams</sub></td>
+</tr>
+</table>
 
 ## ✍️ Latest writing
 
+<table>
 <!-- BLOG-POST-LIST:START -->
-- [How to Choose an Azure Cloud Architect or DevOps Engineer in Finland](https://sanketdevstories.in/blog/how-to-choose-an-azure-cloud-architect-or-devops-engineer-in-finland)
-- [Enterprise AI Governance: Using Azure Purview and Compliance Manager](https://sanketdevstories.in/blog/enterprise-ai-governance-using-azure-purview-and-compliance-manager)
-- [Azure Copilot: AI-Powered Cloud Operations and Migration](https://sanketdevstories.in/blog/azure-copilot-ai-powered-cloud-operations-and-migration)
-- [Multi-Agent Orchestration Advances in Azure AI Foundry (2025)](https://sanketdevstories.in/blog/multi-agent-orchestration-advances-in-azure-ai-foundry-2025)
-- [Semantic Kernel and AutoGen Convergence for AI Agents](https://sanketdevstories.in/blog/semantic-kernel-and-autogen-convergence-building-cross-platform-ai-agents)
+<tr><td width="240"><a href="https://sanketdevstories.in/blog/how-to-choose-an-azure-cloud-architect-or-devops-engineer-in-finland"><img src="https://sanketdevstories.in/blog/how-to-choose-an-azure-cloud-architect-or-devops-engineer-in-finland.svg" width="240" alt=""></a></td><td><a href="https://sanketdevstories.in/blog/how-to-choose-an-azure-cloud-architect-or-devops-engineer-in-finland"><b>How to Choose an Azure Cloud Architect or DevOps Engineer in Finland</b></a><br><sub>Sep 27, 2026</sub></td></tr>
+<tr><td width="240"><a href="https://sanketdevstories.in/blog/enterprise-ai-governance-using-azure-purview-and-compliance-manager"><img src="https://sanketdevstories.in/blog/enterprise-ai-governance-using-azure-purview-and-compliance-manager.svg" width="240" alt=""></a></td><td><a href="https://sanketdevstories.in/blog/enterprise-ai-governance-using-azure-purview-and-compliance-manager"><b>Enterprise AI Governance: Using Azure Purview and Compliance Manager</b></a><br><sub>Dec 23, 2025</sub></td></tr>
+<tr><td width="240"><a href="https://sanketdevstories.in/blog/azure-copilot-ai-powered-cloud-operations-and-migration"><img src="https://sanketdevstories.in/blog/azure-copilot-ai-powered-cloud-operations-and-migration.svg" width="240" alt=""></a></td><td><a href="https://sanketdevstories.in/blog/azure-copilot-ai-powered-cloud-operations-and-migration"><b>Azure Copilot: AI-Powered Cloud Operations and Migration</b></a><br><sub>Dec 17, 2025</sub></td></tr>
+<tr><td width="240"><a href="https://sanketdevstories.in/blog/multi-agent-orchestration-advances-in-azure-ai-foundry-2025"><img src="https://sanketdevstories.in/blog/multi-agent-orchestration-advances-in-azure-ai-foundry-2025.svg" width="240" alt=""></a></td><td><a href="https://sanketdevstories.in/blog/multi-agent-orchestration-advances-in-azure-ai-foundry-2025"><b>Multi-Agent Orchestration Advances in Azure AI Foundry (2025)</b></a><br><sub>Dec 10, 2025</sub></td></tr>
 <!-- BLOG-POST-LIST:END -->
+</table>
 
-➡️ [All articles](https://sanketdevstories.in/resource) · [RSS](https://sanketdevstories.in/rss.xml)
+<sub><a href="https://sanketdevstories.in/resource">All articles →</a> · <a href="https://sanketdevstories.in/rss.xml">RSS</a></sub>
 
 ## 🧰 Toolkit
 
-**Cloud:** Microsoft Azure · Azure Landing Zones · Well-Architected Framework · FinOps · Reliability<br>
-**DevOps & platform:** Terraform · GitHub Actions · Azure DevOps · DevSecOps · self-service platforms<br>
-**AI:** Microsoft Foundry · Microsoft Agent Framework · GitHub Copilot · MCP · AI gateways · agent evaluation<br>
-**Security & identity:** Entra ID · PIM · OAuth 2.0 / OIDC · Microsoft Graph · cloud governance<br>
-**Code & data:** Python · .NET · Bash · PowerShell · Azure Data Factory · Databricks
+<a href="https://sanketdevstories.in/about"><img src="https://skillicons.dev/icons?i=azure,terraform,githubactions,github,python,dotnet,powershell,bash,vscode&perline=9" alt="Azure, Terraform, GitHub Actions, GitHub, Python, .NET, PowerShell, Bash, VS Code"></a>
+
+<sub>Also: Azure DevOps · Microsoft Foundry · Agent Framework · GitHub Copilot · MCP · Entra ID & PIM · Microsoft Graph · Landing Zones · FinOps · Databricks</sub>
 
 ## 🎖️ Certifications
 
-<details>
-<summary><b>Azure Solutions Architect Expert · DevOps Engineer Expert · Terraform Associate · FinOps Certified Engineer</b> and 10 more</summary>
-<br>
-
-| Area | Certification |
-|---|---|
-| Recognition | [Microsoft MVP — Azure](https://mvp.microsoft.com/en-US/MVP/profile/dbff38bc-d171-4f24-b009-125fe319b969) · [Microsoft Certified Trainer](https://www.credly.com/badges/052a7125-54f4-4156-b52e-63124aa99ca3) |
-| Azure | Azure Solutions Architect Expert · [Azure Developer Associate](https://www.credly.com/badges/e5bdca5a-fe80-42de-b9c2-aa0df12df288) · [Azure Administrator Associate](https://www.credly.com/badges/d22eda66-5a0c-4d0a-8077-0fe7462c46ca) · Azure Network Engineer Associate · [Security, Compliance, and Identity Fundamentals](https://www.credly.com/badges/4bdc53d5-32ca-490d-9f14-9946d3178f51) |
-| DevOps & IaC | [DevOps Engineer Expert](https://www.credly.com/badges/d3efabdc-5d56-462a-9974-8ed1aec0a72c) · [HashiCorp Terraform Associate (003)](https://www.credly.com/badges/6b734acc-ca67-4153-a96b-5facfcacabd9) |
-| GitHub | GitHub Copilot · GitHub Actions · GitHub Advanced Security |
-| Cloud cost | FinOps Certified Engineer |
-| Agile | [Certified SAFe® 5 Agilist](https://www.credly.com/badges/ea68a3e5-bd7d-4262-8c9f-b16615d70375) · Certified Scrum Developer |
-
-All of them: [Credly](https://www.credly.com/users/sanketjoshi31) · [About page](https://sanketdevstories.in/about)
-
-</details>
+<p>
+<a href="https://mvp.microsoft.com/en-US/MVP/profile/dbff38bc-d171-4f24-b009-125fe319b969"><img src="assets/badges/microsoft-mvp.webp" height="84" alt="Microsoft Most Valuable Professional (MVP) — Azure" title="Microsoft Most Valuable Professional (MVP) — Azure"></a>
+<a href="https://www.credly.com/users/sanketjoshi31"><img src="assets/badges/azure-solutions-architect-expert.webp" height="84" alt="Azure Solutions Architect Expert" title="Azure Solutions Architect Expert"></a>
+<a href="https://www.credly.com/badges/052a7125-54f4-4156-b52e-63124aa99ca3"><img src="assets/badges/microsoft-certified-trainer.webp" height="84" alt="Microsoft Certified Trainer" title="Microsoft Certified Trainer"></a>
+<a href="https://www.credly.com/badges/d3efabdc-5d56-462a-9974-8ed1aec0a72c"><img src="assets/badges/devops-engineer-expert.webp" height="84" alt="DevOps Engineer Expert" title="DevOps Engineer Expert"></a>
+<a href="https://www.credly.com/users/sanketjoshi31"><img src="assets/badges/azure-network-engineer-associate.webp" height="84" alt="Azure Network Engineer Associate" title="Azure Network Engineer Associate"></a>
+<a href="https://www.credly.com/users/sanketjoshi31"><img src="assets/badges/github-copilot.webp" height="84" alt="GitHub Copilot" title="GitHub Copilot"></a>
+<a href="https://www.credly.com/users/sanketjoshi31"><img src="assets/badges/github-advanced-security.webp" height="84" alt="GitHub Advanced Security" title="GitHub Advanced Security"></a>
+<a href="https://www.credly.com/users/sanketjoshi31"><img src="assets/badges/github-actions.webp" height="84" alt="GitHub Actions" title="GitHub Actions"></a>
+<a href="https://www.credly.com/badges/e5bdca5a-fe80-42de-b9c2-aa0df12df288"><img src="assets/badges/azure-developer-associate.webp" height="84" alt="Azure Developer Associate" title="Azure Developer Associate"></a>
+<a href="https://www.credly.com/badges/d22eda66-5a0c-4d0a-8077-0fe7462c46ca"><img src="assets/badges/azure-administrator-associate.webp" height="84" alt="Azure Administrator Associate" title="Azure Administrator Associate"></a>
+<a href="https://www.credly.com/badges/6b734acc-ca67-4153-a96b-5facfcacabd9"><img src="assets/badges/terraform-associate.webp" height="84" alt="HashiCorp Certified: Terraform Associate (003)" title="HashiCorp Certified: Terraform Associate (003)"></a>
+<a href="https://www.credly.com/users/sanketjoshi31"><img src="assets/badges/finops-certified-engineer.webp" height="84" alt="FinOps Certified Engineer" title="FinOps Certified Engineer"></a>
+<a href="https://www.credly.com/badges/ea68a3e5-bd7d-4262-8c9f-b16615d70375"><img src="assets/badges/safe-agilist.webp" height="84" alt="Certified SAFe® 5 Agilist" title="Certified SAFe® 5 Agilist"></a>
+<a href="https://www.credly.com/users/sanketjoshi31"><img src="assets/badges/scrum-developer.svg" height="84" alt="Certified Scrum Developer (CSD)" title="Certified Scrum Developer (CSD)"></a>
+<a href="https://www.credly.com/badges/4bdc53d5-32ca-490d-9f14-9946d3178f51"><img src="assets/badges/security-compliance-identity-fundamentals.webp" height="84" alt="Security, Compliance, and Identity Fundamentals" title="Security, Compliance, and Identity Fundamentals"></a>
+</p>
 
 ## 🛠️ Open source
 
-**[Azure Multi-Client Manager (AZM)](https://github.com/realsanket/azm-client-manager)** is a cross-platform CLI (Bash and PowerShell) that keeps each client's Azure session isolated. It detects expired logins, compares environments and reduces the risk of running commands in the wrong tenant.
+**[Azure Multi-Client Manager (AZM)](https://github.com/realsanket/azm-client-manager)**: a cross-platform CLI (Bash & PowerShell) that keeps each client's Azure session isolated, detects expired logins and compares environments. No more commands run in the wrong tenant.
 
-## 🤝 Work with me
+## 🤝 Let's talk
 
-- **Mentoring:** 1:1 sessions on Azure, DevOps and AI on [Topmate](https://topmate.io/sanketjoshi3103)
-- **Speaking:** meetups and conferences on Azure, platform engineering and agentic DevOps
-- **Roles and collaborations:** [LinkedIn](https://www.linkedin.com/in/sanketjoshi31/) or [joshisanket097@gmail.com](mailto:joshisanket097@gmail.com)
+**Mentoring** on [Topmate](https://topmate.io/sanketjoshi3103) · **Speaking** on Azure, platform engineering and agentic DevOps · **Roles & collaborations** via [LinkedIn](https://www.linkedin.com/in/sanketjoshi31/) or [email](mailto:joshisanket097@gmail.com)
 
-<div align="center">
-<sub>Learn more about me at <a href="https://sanketdevstories.in/about">sanketdevstories.in/about</a></sub>
-</div>
+<div align="center"><sub>More about me at <a href="https://sanketdevstories.in/about">sanketdevstories.in/about</a></sub></div>

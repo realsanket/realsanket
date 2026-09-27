@@ -18,6 +18,8 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: 'https://sanketdevstories.in/rss.xml'
-          max_post_count: 5
-          template: '- [$title]($url)$newline'
+          max_post_count: 4
+          date_format: 'mmm d, yyyy'
+          # A row per post: the post's generated cover art, then its title and date.
+          template: '<tr><td width="240"><a href="$url"><img src="$url.svg" width="240" alt=""></a></td><td><a href="$url"><b>$title</b></a><br><sub>$date</sub></td></tr>$newline'
           commit_message: 'Update the latest blog posts'

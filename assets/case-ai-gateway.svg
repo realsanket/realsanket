@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" role="img" aria-label="AI platform · Tieto: One gateway in front of every model">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070b1a"/><stop offset="1" stop-color="#121c40"/></linearGradient>
+<radialGradient id="g" cx="0.9" cy="0.1" r="0.7"><stop offset="0" stop-color="#22d3ee" stop-opacity="0.28"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient></defs>
+<rect x="1" y="1" width="598" height="298" rx="18" fill="url(#bg)" stroke="#22d3ee" stroke-opacity="0.35"/>
+<rect x="1" y="1" width="598" height="298" rx="18" fill="url(#g)"/>
+<g transform="translate(36 34)" fill="none" stroke="#22d3ee" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="12" r="2.5"/><circle cx="19" cy="5" r="2.5"/><circle cx="19" cy="12" r="2.5"/><circle cx="19" cy="19" r="2.5"/><path d="M7.5 12h9M7 10.5l9.5-4.5M7 13.5l9.5 4.5"/></g>
+<text x="72" y="52" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="14" letter-spacing="1" fill="#22d3ee">AI PLATFORM · TIETO</text>
+<text x="36" y="112" font-family="'Instrument Serif',Georgia,'Times New Roman',serif" font-size="36" fill="#f3f6ff">One gateway in front</text><text x="36" y="152" font-family="'Instrument Serif',Georgia,'Times New Roman',serif" font-size="36" fill="#f3f6ff">of every model</text>
+<line x1="36" y1="226" x2="564" y2="226" stroke="#ffffff" stroke-opacity="0.1"/>
+<text x="36" y="262" font-family="'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="15" fill="#aab6d6">LiteLLM · Langfuse · Model routing</text>
+<text x="564" y="262" text-anchor="end" font-family="'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#22d3ee">Read the case study →</text>
+</svg>
