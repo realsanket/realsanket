@@ -1,0 +1,23 @@
+# Keeps "Latest writing" in README.md in sync with the blog's RSS feed.
+# Runs daily, or on demand from the Actions tab.
+name: Latest blog posts
+
+on:
+  schedule:
+    - cron: '17 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: 'https://sanketdevstories.in/rss.xml'
+          max_post_count: 5
+          template: '- [$title]($url)$newline'
+          commit_message: 'Update the latest blog posts'
